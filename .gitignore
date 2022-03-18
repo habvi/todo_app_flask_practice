@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # add original
-/memo
+memo
 test.db
 config.py
