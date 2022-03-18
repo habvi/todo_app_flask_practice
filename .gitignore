@@ -105,5 +105,5 @@ venv.bak/
 
 # add original
 /memo
-database.db
+test.db
 config.py
